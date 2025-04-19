@@ -37,7 +37,7 @@
         "code": {
           "description": "Enable code generation",
           "type": "boolean",
-          "default": true
+          ."default": true
         },
         "comments": {
           "description": "Output comments in generated output.",
